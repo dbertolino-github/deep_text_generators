@@ -1,0 +1,1 @@
+Here will be saved all generated texts from Encoder-Decoder models
